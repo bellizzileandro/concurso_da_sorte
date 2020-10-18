@@ -1,0 +1,6 @@
+
+export const lostPswTypes = {
+    LOST_REQUEST: 'LOST_REQUEST',
+    LOST_SUCCESS: 'LOST_SUCCESS',
+    LOST_FAILURE: 'LOST_FAILURE',
+}
